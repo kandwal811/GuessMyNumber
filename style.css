@@ -125,11 +125,9 @@ h1 {
   header{
     width:440px;
     position: sticky;
-    min-height: 50%;
+    min-height: 60vh;
   }
-  main{
-    position: sticky;
-  }
+
     h1{
         font-size: 2.5rem;
     }
@@ -182,16 +180,4 @@ h1 {
         font-size: 2rem;
         
     }
-  }
-  @media screen and (max-width: 650px){
-    h1{
-        font-size: 3rem;
-    }
-    header{
-      width:670px;
-      position: sticky;
-    }
-    main{
-      position: sticky;
-    }
-  } 
+ }

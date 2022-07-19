@@ -119,7 +119,7 @@ h1 {
 }
 
 /* media queries */
-@media screen and (max-width: 480px) {
+/* @media screen and (max-width: 480px) {
     h1{
         font-size: 2.5rem;
     }
@@ -177,4 +177,4 @@ h1 {
     h1{
         font-size: 3rem;
     }
-  }
+  } */
